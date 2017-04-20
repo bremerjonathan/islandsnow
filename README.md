@@ -1,1 +1,1 @@
-# islandsnow
+# islandsnow-with-semantic-ui
